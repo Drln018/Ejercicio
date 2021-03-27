@@ -1,0 +1,15 @@
+C:\Users\13237\OneDrive\Desktop\EJERCICIOCARRITO\EJERCICIOCARRITO\bin\Debug\netcoreapp3.1\EJERCICIOCARRITO.exe
+C:\Users\13237\OneDrive\Desktop\EJERCICIOCARRITO\EJERCICIOCARRITO\bin\Debug\netcoreapp3.1\EJERCICIOCARRITO.deps.json
+C:\Users\13237\OneDrive\Desktop\EJERCICIOCARRITO\EJERCICIOCARRITO\bin\Debug\netcoreapp3.1\EJERCICIOCARRITO.runtimeconfig.json
+C:\Users\13237\OneDrive\Desktop\EJERCICIOCARRITO\EJERCICIOCARRITO\bin\Debug\netcoreapp3.1\EJERCICIOCARRITO.runtimeconfig.dev.json
+C:\Users\13237\OneDrive\Desktop\EJERCICIOCARRITO\EJERCICIOCARRITO\bin\Debug\netcoreapp3.1\EJERCICIOCARRITO.dll
+C:\Users\13237\OneDrive\Desktop\EJERCICIOCARRITO\EJERCICIOCARRITO\bin\Debug\netcoreapp3.1\EJERCICIOCARRITO.pdb
+C:\Users\13237\OneDrive\Desktop\EJERCICIOCARRITO\EJERCICIOCARRITO\obj\Debug\netcoreapp3.1\EJERCICIOCARRITO.csprojAssemblyReference.cache
+C:\Users\13237\OneDrive\Desktop\EJERCICIOCARRITO\EJERCICIOCARRITO\obj\Debug\netcoreapp3.1\EJERCICIOCARRITO.Form1.resources
+C:\Users\13237\OneDrive\Desktop\EJERCICIOCARRITO\EJERCICIOCARRITO\obj\Debug\netcoreapp3.1\EJERCICIOCARRITO.csproj.GenerateResource.cache
+C:\Users\13237\OneDrive\Desktop\EJERCICIOCARRITO\EJERCICIOCARRITO\obj\Debug\netcoreapp3.1\EJERCICIOCARRITO.AssemblyInfoInputs.cache
+C:\Users\13237\OneDrive\Desktop\EJERCICIOCARRITO\EJERCICIOCARRITO\obj\Debug\netcoreapp3.1\EJERCICIOCARRITO.AssemblyInfo.cs
+C:\Users\13237\OneDrive\Desktop\EJERCICIOCARRITO\EJERCICIOCARRITO\obj\Debug\netcoreapp3.1\EJERCICIOCARRITO.csproj.CoreCompileInputs.cache
+C:\Users\13237\OneDrive\Desktop\EJERCICIOCARRITO\EJERCICIOCARRITO\obj\Debug\netcoreapp3.1\EJERCICIOCARRITO.dll
+C:\Users\13237\OneDrive\Desktop\EJERCICIOCARRITO\EJERCICIOCARRITO\obj\Debug\netcoreapp3.1\EJERCICIOCARRITO.pdb
+C:\Users\13237\OneDrive\Desktop\EJERCICIOCARRITO\EJERCICIOCARRITO\obj\Debug\netcoreapp3.1\EJERCICIOCARRITO.genruntimeconfig.cache
